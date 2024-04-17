@@ -1,6 +1,6 @@
 {
   "name": "super-module-memo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "vanila javascript module note text writing web app",
   "main": "index.js",
   "scripts": {
